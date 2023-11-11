@@ -1,0 +1,17 @@
+SEED = ''
+WALLET_ACCUM = ''
+FEE = 1000
+BOT_KEY = ''
+
+TEXT_BALANCE = 'БАЛАНС'
+TEXT_HELP = 'ПОМОЩЬ'
+TEXT_CATALOG = 'КАТАЛОГ ТОВАРОВ'
+TEXT_EXIT = 'ВЫХОД'
+TEXT_BACK = 'НАЗАД'
+TEXT_REFRESH = 'ОБНОВИТЬ'
+TEXT_AP_BALANCE = 'ПОПОЛНИТЬ БАЛАНС'
+TEXT_MENU = 'Меню'
+TEXT_COURSE = 'КУРС'
+TEXT_PRESTART = 'Используйте меню для работы с ботом  (/start)'
+TEXT_STRING_EXIT = 'До новых встреч!'
+TEXT_SUPPORT = 'support: @SET_support'
